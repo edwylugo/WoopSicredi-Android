@@ -38,7 +38,3 @@ Siga as instruções para rodar o projeto.
 1) aplicativo consome uma REST API e exiba uma listagem de eventos;
 2) Cada item da lista deve permitir acesso à detalhes do evento;
 4) No detalhe do evento é importante exibir suas informações e opções de check-in e compartilhamento.
-
-## Screenshots: 
-
-![WoopSicredi](woopsicredi/folder.png)
